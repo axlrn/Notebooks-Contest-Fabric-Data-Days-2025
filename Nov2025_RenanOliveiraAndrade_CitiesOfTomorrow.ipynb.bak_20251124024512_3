@@ -521,22 +521,21 @@
             "id": "e41c6aa6",
             "metadata": {},
             "source": [
-                "# CHAPTER 3 — Advanced Diagnosis: The Pulse of Cities  \n",
+                "# Chapter 3 — Diagnosis Avançado: O Pulso das Cidades  \n",
                 "\n",
-                "In the previous chapter we explored the general landscape of the data. Now we move to a crucial stage:\n",
+                "In the previous chapter, we explored a paisagem geral dos dados. Agora avançamos para uma etapa crucial:  \n",
+                "descobrir **quais forças realmente moldam a sustentabilidade urbana**.\n",
                 "\n",
-                "Discover **which forces truly shape urban sustainability**.\n",
+                "A partir da matriz de correlação e das estatísticas avançadas, analisamos como os indicadores se relacionam entre si e com o índice final de sustentabilidade — revelando padrões, tensões e alavancas.\n",
                 "\n",
-                "Using the correlation matrix and advanced statistics, we examine how indicators relate to each other and to the final sustainability index — revealing patterns, tensions, and levers.\n",
+                "This chapter atende às diretrizes do concurso Fabric Data Days, que pedem:\n",
                 "\n",
-                "This chapter follows the Fabric Data Days contest guidelines, which ask for:\n",
+                "- Exploração estatística sólida  \n",
+                "- Correlações explicadas  \n",
+                "- Análises narrativas em Markdown  \n",
+                "- Clareza na interpretação  \n",
                 "\n",
-                "- Robust statistical exploration  \n",
-                "- Clear explanation of correlations  \n",
-                "- Narrative analyses in Markdown  \n",
-                "- Clarity of interpretation  \n",
-                "\n",
-                "We will investigate the **true pulse** of the cities in the dataset.\n"
+                "Vamos investigar o **pulso real** das cidades do dataset.\n"
             ]
         },
         {
@@ -1157,7 +1156,7 @@
                 "- Quantificar a qualidade das previsões do modelo;\n",
                 "- Descobrir, com base estatística e computacional, qual é o **Fator Crítico** — a variável mais importante para a sustentabilidade das cidades.\n",
                 "\n",
-                "This chapter connects data science, urban planning, and decision-making, preparing the ground for strategic recommendations in the final chapter.\n"
+                "This chapter connects data science, urban planning, and decision-making, preparando o terreno para as recomendações estratégicas no capítulo final.\n"
             ]
         },
         {
@@ -1551,7 +1550,7 @@
                 "\n",
                 "O objetivo é identificar quais fatores exercem maior influência sobre a\n",
                 "sustentabilidade urbana, consolidando a análise iniciada nos capítulos\n",
-                "previous ones and allowing extraction of the **Critical Factor** in the following chapter.\n",
+                "anteriores e permitindo extrair o **Fator Crítico** no capítulo seguinte.\n",
                 "\n",
                 "---\n",
                 "\n"
@@ -1703,7 +1702,7 @@
                 "- Como a **urbanização** se relaciona com **emissões, poluição e serviços básicos** no mundo?\n",
                 "- Em quais regiões a proporção de população urbana vivendo em **assentamentos precários** ainda é crítica?\n",
                 "\n",
-                "The findings of this chapter will be revisited in the **final synthesis (Chapter 9 and 10)** as macro context for the challenge's cities.\n"
+                "Os achados deste capítulo serão retomados na **síntese final (Chapter 9 e 10)** como contexto macro das cidades do desafio.\n"
             ]
         },
         {
@@ -3771,7 +3770,7 @@
                 "2. **Modelos mais avançados (como Random Forest) trazem ganho em relação a modelos lineares?**  \n",
                 "3. **Quais variáveis são, de fato, os fatores críticos para a sustentabilidade urbana?**\n",
                 "\n",
-                "To do this, we organize the chapter into three blocks:\n",
+                "Para isso, organizamos o capítulo em três blocos:\n",
                 "\n",
                 "---\n",
                 "\n",
@@ -4048,7 +4047,7 @@
             "source": [
                 "## 🔹 Preparando o Chapter 11\n",
                 "\n",
-                "With the analytic journey complete — including predictive modeling, explainability and comparative analyses — we reach the point of turning diagnosis into direction.\n",
+                "Com a jornada analítica completa — passando por modeling preditiva, explicabilidade e análises comparativas — chegamos ao momento de transformar diagnóstico em direção.\n",
                 "\n",
                 "Até aqui, entendemos **como os indicadores urbanos se combinam**, quais são os **fatores críticos** da sustentabilidade e como diferentes cidades se posicionam em **trajetórias distintas de desenvolvimento**.\n",
                 "\n",
@@ -4181,7 +4180,7 @@
                 "- **RMSE:** escala do erro média, mais intuitiva  \n",
                 "- **R²:** proporção da variância explicada pelo modelo  \n",
                 "\n",
-                "These metrics help validate that the model is stable and coherent.\n",
+                "Essas métricas ajudam a validar que o modelo é estável e coerente.\n",
                 "\n",
                 "---\n",
                 "\n",
